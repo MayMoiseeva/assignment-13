@@ -22,3 +22,14 @@ h1{
 #search{
 	background: hsl(49,70%,95%);
 }
+
+.right{
+	position:absolute;
+	bottom:1.5em;
+	font-size:.5em;
+	color:hsl(49,50%,60%);
+}
+a{
+	color:inherit;
+	text-decoration: inherit;
+}
