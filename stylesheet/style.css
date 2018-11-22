@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Bangers|Muli');
+
+body{
+	font-family:'Muli', sans-serif;
+	background: hsl(49,70%,85%);
+	color:hsl(224,64%,65%);
+	font-weight: normal;
+	font-size:1.5em;
+	letter-spacing:.1em;
+	padding-left:4em;
+}
+
+h1{
+	font-family:'Bangers', fantasy;
+	border-bottom:2px solid #c7a008;
+	border-radius: .7em;
+	background: #ffcb05;
+	padding:.4em;
+	margin:0;
+}
+
+#search{
+	background: hsl(49,70%,95%);
+}
